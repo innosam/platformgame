@@ -1,5 +1,6 @@
-# platformgame
+# platform game [link](http://innosam.github.io/platformgame/)
 
-## Implement a platform game
-### Understand dynamics of HTML elements
-### Get familiar with building application in js
+Its an implementation of a mario like platform based game, totally inspired from Eloquent Javascript.
+Motives are:
+- Understand dynamics of HTML elements
+- Get familiar with building application in js.
